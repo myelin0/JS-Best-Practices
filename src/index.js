@@ -1,5 +1,5 @@
-import _ from 'lodash';
 import './style.css';
+import _ from 'lodash';
 import TasksUI from './modules/tasks-list.js';
 import Tasks from './modules/tasksClass.js';
 import Methods from './modules/methods.js';
